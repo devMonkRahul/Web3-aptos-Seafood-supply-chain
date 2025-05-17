@@ -1,0 +1,15 @@
+[package]
+name = "seafood_supply_chain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+seafood_addr="0x7805283ee57a2fc1025716fb6af1ee418280c75bf4d6c78f21c9cd64bd0ae20b"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
