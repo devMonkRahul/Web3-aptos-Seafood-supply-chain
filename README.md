@@ -153,3 +153,6 @@ Project Link: [https://github.com/yourusername/seachain](https://github.com/your
 - Move language developers
 - React and Chakra UI teams
 - The sustainable fishing community 
+
+
+![image](https://github.com/user-attachments/assets/4429d04f-03dd-414a-b532-ee4f27c4ab50)
